@@ -1,6 +1,5 @@
 # Queue is a data structure which follows a specific order "FIFO" which stands for First in first out. 
-# One that comes first gets served first and altered(such as deletion) too.
-# Queue is mutable type structure. 
+
 
 Q=[]
 ch='y'
